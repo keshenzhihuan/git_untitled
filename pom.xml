@@ -7,6 +7,7 @@
     <groupId>org.cool</groupId>
     <artifactId>cool-test2</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <description>test tags</description>
 
     <dependencyManagement>
         <dependencies>
